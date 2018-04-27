@@ -2,7 +2,7 @@
 
 ## What is Amazon Cognito?
 
-> Amazon Cognito 可讓您快速輕鬆地將使用者註冊、登入和存取控制新增到 Web 和行動應用程式。Amazon Cognito 可擴展到數百萬使用者，且支援以社交身分供應商 (如 Facebook、Google 和 Amazon) 以及透過 SAML 2.0 以企業身分供應商進行登入。 - Amazon Cognito
+> Amazon Cognito 可讓您快速輕鬆地將使用者註冊、登入和存取控制新增到 Web 和行動應用程式 - Amazon Cognito
 
 ---
 
@@ -27,6 +27,8 @@
 
 > A user pool is a user directory in Amazon Cognito.
 
++++
+
 ### Identity pools
 
 使用者的 AWS 授權中心
@@ -43,19 +45,21 @@
 
 ## Access Control with User Pool
 
-### Access Your Own Resources with a User Pool
++++
+
+### Access Your Own Resources
 
 ![Access Your Own Resources with a User Pool](https://docs.aws.amazon.com/zh_tw/cognito/latest/developerguide/images/scenario-standalone.png)
 
 +++
 
-### Access API Gateway and Lambda with a User Pool
+### Access API Gateway and Lambda
 
 ![Access API Gateway and Lambda with a User Pool](https://docs.aws.amazon.com/zh_tw/cognito/latest/developerguide/images/scenario-api-gateway.png)
 
 +++
 
-### Authenticate with a User Pool and Access AWS Services with an Identity Pool
+### Access AWS Services with an Identity Pool
 
 ![Authenticate with a User Pool and Access AWS Services with an Identity Pool](https://docs.aws.amazon.com/zh_tw/cognito/latest/developerguide/images/scenario-cup-cib.png)
 
@@ -67,7 +71,7 @@
 
 ---
 
-## Authenticate with a Third Party and Access AWS Services with an Identity Pool
+## Authenticate with a Third Party
 
 ![Authenticate with a Third Party and Access AWS Services with an Identity Pool](https://docs.aws.amazon.com/zh_tw/cognito/latest/developerguide/images/scenario-identity-pool.png)
 
