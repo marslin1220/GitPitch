@@ -75,3 +75,18 @@
 
 ![Authenticate with a Third Party and Access AWS Services with an Identity Pool](https://docs.aws.amazon.com/zh_tw/cognito/latest/developerguide/images/scenario-identity-pool.png)
 
+## Pricing
+
+About $4,000 / month for CHOCO TV
+
+| Pricing Tier (MAUs)     | Price per MAU |
+| ----------------------- | ------------- |
+| First 50,000            | Free          |
+| Next 50,000             | $0.00550      |
+| Next 900,000            | $0.00460      |
+| Next 9,000,000          | $0.00325      |
+| Greater than 10,000,000 | $0.00250      |
+
+---
+
+Q & A
