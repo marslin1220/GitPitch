@@ -1,5 +1,7 @@
 # Amazon Cognito
 
+---
+
 ## What is Amazon Cognito?
 
 > Amazon Cognito 可讓您快速輕鬆地將使用者註冊、登入和存取控制新增到 Web 和行動應用程式 - Amazon Cognito
@@ -20,6 +22,8 @@
 ---
 
 ## Features of Amazon Cognito
+
+---
 
 ### User pools
 
@@ -74,6 +78,8 @@
 ## Authenticate with a Third Party
 
 ![Authenticate with a Third Party and Access AWS Services with an Identity Pool](https://docs.aws.amazon.com/zh_tw/cognito/latest/developerguide/images/scenario-identity-pool.png)
+
+---
 
 ## Pricing
 
