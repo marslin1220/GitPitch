@@ -4,6 +4,8 @@
 
 ## Self Introduction
 
+@LINE TV as a frontend manager now
+
 Twitter: @marslin_dev
 
 Medium: https://medium.com/@marslin_dev
@@ -14,18 +16,18 @@ Medium: https://medium.com/@marslin_dev
 
 ## HTTP Live Streaming (HLS) Introduction
 
-![](/Users/marslin/workspace/GitPitch/normal-hls.png)
+![](./normal-hls.png)
 
 ---
 
 ## AirPlay Introduction
 
-![from https://www.bizmodeller.com/iHomeServer/userguide/push_model__playing_your_media_on_an_airplay_device.htm](/Users/marslin/workspace/GitPitch/drex_push_model__playing_your_media_on_an_airplay_device_custom.png)
+![from https://www.bizmodeller.com/iHomeServer/userguide/push_model__playing_your_media_on_an_airplay_device.htm](./drex_push_model__playing_your_media_on_an_airplay_device_custom.png)
 ---
 
 ## Playback with Encrypted AV Media
 
-![](/Users/marslin/workspace/GitPitch/resourceLoader.png)
+![](./resourceLoader.png)
 
 ---
 
@@ -33,7 +35,7 @@ Medium: https://medium.com/@marslin_dev
 
 `shouldWaitForLoadingOfRequestedResource` 在 AirPlay 的時候根本沒被呼叫到！？
 
-![](/Users/marslin/workspace/GitPitch/scared.png)
+![](./scared.png)
 
 ---
 
@@ -49,11 +51,11 @@ ref: [AVAssetResourceLoader - resourceLoader(_:shouldWaitForLoadingOfRequestedRe
 
 ## 那就來客製化 Scheme 吧！
 
-![](/Users/marslin/workspace/GitPitch/normal-hls.png)
+![](./normal-hls.png)
 
 ---
 
-![](/Users/marslin/workspace/GitPitch/custom-hls.png)
+![](./custom-hls.png)
 
 ---
 
@@ -61,19 +63,19 @@ ref: [AVAssetResourceLoader - resourceLoader(_:shouldWaitForLoadingOfRequestedRe
 
 ### 分開處理不同的 Resources
 
-![](/Users/marslin/workspace/GitPitch/resourceLoader-handle.png)
+![](./resourceLoader-handle.png)
 
 ---
 
 ### 處理 PlayList 需求 (需修改 response)
 
-![](/Users/marslin/workspace/GitPitch/resourceLoader-replace.png)
+![](./resourceLoader-replace.png)
 
 ---
 
 ### 處理其他資源需求 (不需修改 response)
 
-![](/Users/marslin/workspace/GitPitch/resourceLoader-redirect.png)
+![](./resourceLoader-redirect.png)
 
 ---
 
