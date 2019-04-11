@@ -1,5 +1,17 @@
 # 用 AirPlay 2 播放 AES 加密影片的坑
 
+---
+
+## Self Introduction
+
+Twitter: @marslin_dev
+
+Medium: https://medium.com/@marslin_dev
+
+<img src="self-introduction.JPG" alt="drawing" width="250"/>
+
+---
+
 ## HTTP Live Streaming (HLS) Introduction
 
 ![](/Users/marslin/workspace/GitPitch/normal-hls.png)
