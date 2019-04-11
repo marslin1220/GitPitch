@@ -16,6 +16,10 @@ Medium: https://medium.com/@marslin_dev
 
 ## HLS Introduction
 
+HLS: HTTP Live Streaming
+
+---
+
 ![](./normal-hls.png)
 
 ---
@@ -51,6 +55,8 @@ ref: [AVAssetResourceLoader - resourceLoader(_:shouldWaitForLoadingOfRequestedRe
 
 ## 那就來客製化 Scheme 吧！
 
+---
+
 ![](./normal-hls.png)
 
 ---
@@ -81,7 +87,7 @@ ref: [AVAssetResourceLoader - resourceLoader(_:shouldWaitForLoadingOfRequestedRe
 
 ## 總結
 
-如果沒有特殊驗證憑證的需求，個人比較偏好使用 Cookie 的方式傳遞授權驗證，但如果有像我一樣有開發上的限制或困難的話，可以考慮看看這樣的解密流程囉！
+如果沒有特殊驗證憑證的需求，個人比較 **偏好使用 Cookie** 的方式傳遞授權驗證，但如果有像我一樣有開發上的限制或困難的話，可以考慮看看這樣的解密流程囉！
 
 ---
 
