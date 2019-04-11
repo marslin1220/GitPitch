@@ -14,9 +14,7 @@ Medium: https://medium.com/@marslin_dev
 
 ---
 
-## HSL Introduction
-
-HSL: HTTP Live Streaming
+## HLS Introduction
 
 ![](./normal-hls.png)
 
